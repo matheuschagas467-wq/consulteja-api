@@ -1,0 +1,37 @@
+[
+  {
+    "barcode": "7891000315517",
+    "name": "Leite Condensado Moça",
+    "description": "Leite condensado integral, ideal para receitas de sobremesas. Lata com 395g.",
+    "price": 8.99,
+    "imageUrl": "https://i.imgur.com/s4e4V7G.jpeg"
+  },
+  {
+    "barcode": "7891991010133",
+    "name": "Refrigerante Coca-Cola",
+    "description": "Refrigerante de cola, perfeito para acompanhar refeições. Garrafa PET 2L.",
+    "price": 9.50,
+    "imageUrl": "https://i.imgur.com/8B2nZTI.jpeg"
+  },
+  {
+    "barcode": "7896065800018",
+    "name": "Sabão em Pó OMO Lavagem Perfeita",
+    "description": "Detergente em pó para lavar roupas brancas e coloridas. Caixa 800g.",
+    "price": 15.75,
+    "imageUrl": "https://i.imgur.com/0s3YtYj.jpeg"
+  },
+  {
+    "barcode": "7891008121025",
+    "name": "Biscoito Recheado Negresco",
+    "description": "Biscoito de chocolate com recheio de baunilha. Pacote 90g.",
+    "price": 3.49,
+    "imageUrl": "https://i.imgur.com/uE1zT7k.jpeg"
+  },
+  {
+    "barcode": "7894900011517",
+    "name": "Achocolatado em Pó Nescau 2.0",
+    "description": "Achocolatado em pó com Activ-Go, fonte de vitaminas e minerais. Lata 370g.",
+    "price": 12.90,
+    "imageUrl": "https://i.imgur.com/j5bXqYJ.jpeg"
+  }
+]
