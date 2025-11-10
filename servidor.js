@@ -11,6 +11,9 @@ const PORT = process.env.PORT || 3000;
 // Habilitar CORS para permitir requisições de qualquer origem
 app.use(cors());
 
+// 🔹 Permite servir arquivos estáticos da pasta "public/images"
+app.use("/images", express.static(path.join(__dirname, "public", "images")));
+
 // Caminho para o nosso "banco de dados" JSON
 const productsFilePath = path.join(__dirname, 'products.json');
 
@@ -48,3 +51,6 @@ app.listen(PORT, () => {
   console.log(`Servidor da API "ConsulteJá" rodando na porta ${PORT}`);
   console.log(`Use a rota: http://localhost:${PORT}/api/products/:barcode`);
 });
+
+
+
