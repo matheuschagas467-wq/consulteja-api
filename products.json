@@ -10,10 +10,10 @@
     "barcode": "202510112025",
     "name": "Placa de Vídeo RTX 2060 Zotac 12gb",
     "description": "Features:
-- IceStorm 2.0
-- GDDR6 memory
-- OC Scanner
-- FireStorm Utility",
+- IceStorm 2.0,
+- GDDR6 memory,
+- OC Scanner,
+- FireStorm Utility
     "price": R$1399,90
     "imageUrl": "https://www.zotac.com/pt/product/graphics_card/zotac-gaming-geforce-rtx-2060-1"
   },
@@ -46,4 +46,5 @@
     "imageUrl": "https://i.imgur.com/j5bXqYJ.jpeg"
   }
 ]
+
 
