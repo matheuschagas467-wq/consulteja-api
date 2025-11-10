@@ -6,17 +6,20 @@
     "price": 8.99,
     "imageUrl": "https://i.imgur.com/s4e4V7G.jpeg"
   },
-  {
-    "barcode": "202510112025",
-    "name": "Placa de Vídeo RTX 2060 Zotac 12gb",
-    "description": "Features:
-- IceStorm 2.0,
-- GDDR6 memory,
-- OC Scanner,
-- FireStorm Utility
-    "price": R$1399,90
-    "imageUrl": "https://www.zotac.com/pt/product/graphics_card/zotac-gaming-geforce-rtx-2060-1"
+ {
+  "barcode": "202511012025",
+  "name": "Placa de Vídeo RTX 2060 Zotac 12gb",
+  "description": {
+    "features": [
+      "IceStorm 2.0",
+      "GDDR6 memory",
+      "OC Scanner",
+      "FireStorm Utility"
+    ]
   },
+  "price": "R$1399,90",
+  "imageUrl": "https://www.zotac.com/pt/product/graphics_card/zotac-gaming-geforce-rtx-2060-12gb"
+}
   {
     "barcode": "7891991010133",
     "name": "Refrigerante Coca-Cola",
@@ -46,5 +49,6 @@
     "imageUrl": "https://i.imgur.com/j5bXqYJ.jpeg"
   }
 ]
+
 
 
